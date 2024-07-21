@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<style>
+<head>
+  <style>
   body                               /*定义body样式*/
 {
     border:#CCCC00 3px solid;
@@ -60,6 +61,7 @@ table                     /*定义table样式*/
 }
 </style>
 
+</head>
 <body style="height:1300; width: 1000px" >
     <h1><span class="style2">个人简历 </span> <span class="style1">Personal resume</span></h1>
     <h2 style="background-color: #CCCC00">基本信息</h2>
