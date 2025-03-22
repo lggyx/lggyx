@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=BiliBili&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://space.bilibili.com/353147531?spm_id_from=333.1007.0.0" height="35" alt="BiliBili logo"  />
+  <img src="https://img.shields.io/static/v1?message=BiliBili&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="BiliBili logo"  ><a href="https://space.bilibili.com/353147531?spm_id_from=333.1007.0.0" ></a></img>
 </div>
 
 ###
