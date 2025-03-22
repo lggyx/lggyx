@@ -2,18 +2,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zdx-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Gruvbox_Light&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zdx-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=Gruvbox_Light&hide_border=false" height="150" alt="languages graph"  />
+  <img height="150" src="https://zdx-1.github.io/images/about/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231016024946.jpg"  />
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://zdx-1.github.io/images/about/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231016024946.jpg"  />
-
-###
-
-<div align="center">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -31,9 +26,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=BiliBili&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="BiliBili logo"  ><a href="https://space.bilibili.com/353147531?spm_id_from=333.1007.0.0" ></a></img>
-</div>
 
-###
 
