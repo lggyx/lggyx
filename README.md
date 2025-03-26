@@ -22,8 +22,6 @@
     <a href="https://space.bilibili.com/353147531/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=zdx-1&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@zdx-1"><img src="https://wakatime.com/badge/user/8a569aa1-870a-4381-9696-1ab7bf0e61d7.svg"></a>
 
   </div>
   <div align="center">
