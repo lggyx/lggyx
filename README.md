@@ -9,7 +9,6 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zdx-1&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   
 
-  <img style="height:137px;" src="https://zdx-1.github.io/images/about/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231016024946.jpg"  />
 
 </div>
 
@@ -54,4 +53,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=zdx-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Gruvbox_Light&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zdx-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=Gruvbox_Light&hide_border=false" height="150" alt="languages graph"  />
+    <img style="height:137px;" src="https://zdx-1.github.io/images/about/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231016024946.jpg"  />
+
 
