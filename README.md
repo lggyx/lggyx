@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is zdx-1 and I'm a developer, from China.</h2>
+<h2 align="left">Me: Developer</h2>
+<h2>Hi! I'm a creative developer, crafting code with passion.<br/> Let's build amazing things together! 💻✨🚀🌟🎨🔧</h2>
 
 ###
 
@@ -23,6 +24,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=zdx-1" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
 
 ###
 
