@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    environment: 
+      name: production
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -22,7 +24,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN.METRICS_TOKEN  }}
+          token: ${{ secrets.METRICS_TOKEN  }}
 
           # Options
           user: lggyx
