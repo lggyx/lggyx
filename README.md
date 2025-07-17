@@ -40,7 +40,7 @@
     <img src="https://github.com/lggyx/lggyx/blob/main/github-metrics.svg" />
   </div>
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
+<table width="350">
   <tr>
     <td>
       <picture>
