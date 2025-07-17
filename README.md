@@ -1,15 +1,19 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);伊格祝您今天愉快!&center=true&size=27"> </a> </h1>
-<div align="center"><img src="https://github.com/lggyx/lggyx/blob/main/github-metrics.svg"/></div>
 
 
 <div align="center">
-  <!-- GitHub 数据统计 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=137px align="center" src="https://github-readme-stats.vercel.app/api?username=lggyx" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=137px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lggyx&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <div>
+    <img src="https://github.com/lggyx/lggyx/blob/main/github-metrics.svg" />
+  </div>
+
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="140" src="https://github-readme-stats.vercel.app/api?username=lggyx" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=lggyx&layout=compact&langs_count=8&card_width=320" />
+    </a>
+  </div>
 </div>
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
