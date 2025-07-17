@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 <div align="center">
-    <img src="https://github.com/lggyx/lggyx/blob/main/github-metrics.sv" />
+    <img src="https://github.com/lggyx/lggyx/blob/main/github-metrics.svg" />
   </div>
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
