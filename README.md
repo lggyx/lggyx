@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);伊格祝您今天愉快!&center=true&size=27"> </a> </h1>
 
-<img src="https://github.com/lggyx/lggyx/blob/main/github-metrics.svg"/>
+<img align="center" src="https://github.com/lggyx/lggyx/blob/main/github-metrics.svg"/>
 
 <div align="center">
   <!-- GitHub 数据统计 -->
