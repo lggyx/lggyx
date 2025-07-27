@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="711" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="693" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,8 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Zibo Vocational Institute in Software Engineering</div>
+                        <div class="introduction">
+                        </div>
                     </section>
                 </div>
             </section>
@@ -1283,7 +1284,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2025, 14:16:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2025, 15:12:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
