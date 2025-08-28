@@ -27,7 +27,8 @@ jobs:
           # Options
           user: lggyx
           template: classic
-          base: header, activity, community, repositories, metadata
+          # base: header, activity, community, repositories, metadata
+          base: header,metadata
           config_timezone: Asia/Shanghai
           plugin_introduction: yes
           plugin_introduction_title: yes
