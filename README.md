@@ -28,7 +28,7 @@
 <div align="center">
     <img src="https://github.com/lggyx/lggyx/blob/main/github-metrics.svg" />
   </div>
-<div align="center">
+<!-- <div align="center">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="140" src="https://github-readme-stats.vercel.app/api?username=lggyx" />
@@ -37,7 +37,7 @@
       <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=lggyx&layout=compact&langs_count=8&card_width=320" />
     </a>
   </div>
-</div>
+</div> -->
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center"> 
 <!-- <table>
