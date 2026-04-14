@@ -96,7 +96,15 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add github-stats.svg top-langs.svg github-streak.svg github-trophy.png
+          # Only add files that exist
+          for file in github-stats.svg top-langs.svg github-streak.svg github-trophy.png; do
+            if [ -f "$file" ]; then
+              git add "$file"
+              echo "Added $file"
+            else
+              echo "Skipping $file (not found)"
+            fi
+          done
           git status
           git diff --staged --quiet || git commit -m "Update GitHub profile images"
           git push
