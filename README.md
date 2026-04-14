@@ -29,7 +29,7 @@
 
 <!-- GitHub 奖杯 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/github-trophy.png" alt="GitHub Trophy" />
+  <img src="https://raw.githubusercontent.com/lggyx/lggyx/main/github-trophy.png" alt="GitHub Trophy" />
 </div>
 
 <!-- 技术栈 -->
@@ -74,21 +74,21 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/github-stats.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/github-stats.svg" />
-          <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/github-stats.svg" alt="GitHub Stats" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/main/github-stats.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/main/github-stats.svg" />
+          <img src="https://raw.githubusercontent.com/lggyx/lggyx/main/github-stats.svg" alt="GitHub Stats" />
         </picture>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/github-streak.svg" alt="GitHub Streak" />
+        <img src="https://raw.githubusercontent.com/lggyx/lggyx/main/github-streak.svg" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/top-langs.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/top-langs.svg" />
-          <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/top-langs.svg" alt="Top Languages" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/main/top-langs.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/main/top-langs.svg" />
+          <img src="https://raw.githubusercontent.com/lggyx/lggyx/main/top-langs.svg" alt="Top Languages" />
         </picture>
       </td>
     </tr>
