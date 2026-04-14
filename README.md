@@ -64,6 +64,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub 统计卡片 -->
+<!-- 如果图片显示 Error，尝试访问：https://github-readme-stats.vercel.app/api?username=lggyx 检查服务状态 -->
 <div align="center">
   <h3>📊 GitHub Stats | 数据统计</h3>
 </div>
@@ -72,7 +73,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lggyx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lggyx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -80,7 +81,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lggyx&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lggyx&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
       </td>
     </tr>
   </table>
