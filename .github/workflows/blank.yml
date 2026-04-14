@@ -12,6 +12,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
