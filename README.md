@@ -1,274 +1,348 @@
+<!-- 动态打字机标题 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6AD1F7&height=250&section=header&text=Hello%20World&fontSize=60&fontAlignY=35&desc=伊格%20|%20Full%20Stack%20Developer&descSize=22&descAlignY=55&animation=twinkling" alt="header" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=console.log(%22Hello%2C%20World!%22);%E4%BC%8A%E6%A0%BC%20%7C%20Full%20Stack%20Developer;%E4%BB%8E%20C%23%20%E5%88%B0%20Python%20%E7%9A%84%E8%BF%9B%E5%8C%96%E4%B9%8B%E8%B7%AF;7%20x%20%E7%9C%81%E7%BA%A7%E4%BB%A5%E4%B8%8A%E7%AB%9E%E8%B5%9B%E5%A5%96%E9%A1%B9;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%20%F0%9F%9A%80%20%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%AD%A2" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- 社交链接徽章区 -->
+<!-- 渐变分隔线 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%">
+
+<!-- 社交链接 - 使用渐变样式 -->
 <div align="center">
-  <a href="https://www.youtube.com/channel/UChoAnrA85EzQOPW70psFJbg"><img src="https://img.shields.io/badge/YouTube-油管-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://lggyx.github.io"><img src="https://img.shields.io/badge/Website-博客-8A2BE2?style=for-the-badge&logo=hexo&logoColor=white" /></a>
-  <a href="https://github.com/lggyx/lggyx/blob/main/assets/wechat.png"><img src="https://img.shields.io/badge/WeChat-微信-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/353147531/"><img src="https://img.shields.io/badge/Bilibili-B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=lggyx&label=Visitors&color=ff69b4&style=for-the-badge" alt="访问量统计" />
+  <a href="https://www.youtube.com/channel/UChoAnrA85EzQOPW70psFJbg">
+    <img src="https://img.shields.io/badge/📺%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://lggyx.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Blog-2962FF?style=for-the-badge&logo=hexo&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/lggyx/lggyx/blob/main/assets/wechat.png">
+    <img src="https://img.shields.io/badge/💬%20WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://space.bilibili.com/353147531/">
+    <img src="https://img.shields.io/badge/📺%20Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=0D1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lggyx&label=%F0%9F%91%80%20Visitors&color=FF6B6B&style=for-the-badge" alt="访问量统计" />
 </div>
 
-<!-- 分隔线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 个人简介卡片 -->
+<!-- 霓虹分隔线 -->
 <div align="center">
-  <h2>👨‍💻 About Me | 关于伊格</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:FF6B6B,100:9D4EDD&height=4&section=header" width="100%">
 </div>
 
-<table align="center">
+<!-- 座右铭 -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
+<!-- 个人资料展示 - 使用双列布局 -->
+<table align="center" width="100%">
   <tr>
-    <td>
-      <b>🎓 教育背景</b><br>
-      • 青岛恒星科技学院 | 软件工程本科 <code>2025.09 - 至今</code><br>
-      • 淄博职业学院 | 软件技术专科 <code>2022.09 - 2025.06</code>
+    <td width="50%" valign="top">
+      <h3 align="center">� 个人档案</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🎓%20青岛恒星科技学院-本科-2962FF?style=flat-square&labelColor=0D1117" /><br>
+        <img src="https://img.shields.io/badge/🏫%20淄博职业学院-专科-00D9FF?style=flat-square&labelColor=0D1117" /><br>
+        <img src="https://img.shields.io/badge/💼%20求职中-Java后端/全栈-FF6B6B?style=flat-square&labelColor=0D1117" />
+      </p>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <b>💼 技术旅程</b><br>
-      从 <b>C# 商务软件解决方案</b> 起步 → 算法竞赛混子 → 软件测试 → Termux 手机服务器 → 渗透测试<br>
-      → Java 微服务分布式 → 摄影爱好者 → <b>Python 自动化/Dify/MCP/爬虫</b><br>
-      <br>
-      <i>嗯... 什么都懂一点，什么都不咋懂的全栈蒟蒻</i> o(*￣▽￣*)o
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🔍 求职意向</b><br>
-      Java后端开发工程师 | 全栈开发工程师 | 接受实习/校招/社招
+    <td width="50%" valign="top">
+      <h3 align="center">📊 数据概览</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🏆%20竞赛奖项-7项%20省级+-FFD93D?style=flat-square&labelColor=0D1117" /><br>
+        <img src="https://img.shields.io/badge/�%20技术博客-10+%20文章-6BCB77?style=flat-square&labelColor=0D1117" /><br>
+        <img src="https://img.shields.io/badge/💻%20项目经验-8+%20项目-9D4EDD?style=flat-square&labelColor=0D1117" />
+      </p>
     </td>
   </tr>
 </table>
 
-<!-- 分隔线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- 技术旅程时间轴 -->
+<h2 align="center">🚀 技术进化时间轴</h2>
 
-<!-- 技术栈 - 使用详情折叠面板 -->
-<details open>
-  <summary><h2 align="center">🚀 Tech Stack | 技术能力</h2></summary>
-  <br>
-  <div align="center">
-    
-  <h3>🐍 当前主力 | Current Focus</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" />
-  
-  <h3>☕ Java生态 | Backend</h3>
-  <p>
-    <code>Spring Boot</code> <code>Spring MVC</code> <code>MyBatis</code> <code>MyBatis-Plus</code><br>
-    <code>MySQL</code> <code>PostgreSQL</code> <code>SQL Server</code> <code>GaussDB</code> <code>Redis</code><br>
-    <code>Nacos</code> <code>微服务架构</code>
-  </p>
-  
-  <h3>🖥️ 桌面端开发 | Desktop</h3>
-  <p>
-    <code>WinForm</code> <code>AntdUI</code> <code>NanUI</code> <code>SunnyUI</code>
-  </p>
-  
-  <h3>🌐 前端技术 | Frontend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <p>
-    <code>Vue 3</code> <code>Vite</code> <code>JSP</code> <code>jQuery</code>
-  </p>
-  
-  <h3>� 运维与工具 | DevOps</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
-  <p>
-    <code>Docker</code> <code>Docker Compose</code> <code>Nginx</code><br>
-    <code>Ubuntu Server</code> <code>Arch Linux</code> <code>宝塔面板</code> <code>1Panel</code><br>
-    <code>Termux</code> <code>Proot</code> <code>VNC</code>
-  </p>
-  
-  <h3>🔧 其他技能 | Others</h3>
-  <p>
-    <b>Python:</b> <code>爬虫</code> <code>Flask</code> <code>Django</code> <code>PyQt</code> <code>Kivy</code> <code>Jupyter</code><br>
-    <b>C#:</b> <code>桌面应用</code> <code>HTTP客户端</code> <code>序列化</code><br>
-    <b>测试:</b> <code>Selenium</code> <code>JMeter</code> <code>Postman</code><br>
-    <b>安全:</b> <code>Kali Linux</code> <code>网络穿透</code><br>
-    <b>通信:</b> <code>WebRTC P2P</code>
-  </p>
-  
-  </div>
-</details>
+```mermaid
+timeline
+    title 我的技术成长之路
+    2022 : C# 商务软件解决方案
+         : 算法竞赛入门
+    2023 : 软件测试
+         : Termux 手机服务器
+         : 渗透测试基础
+    2024 : Java 微服务分布式
+         : 摄影爱好
+    2025 : Python 自动化
+         : Dify 工作流
+         : MCP 服务开发
+         : 爬虫技术
+```
+
+> 💡 **座右铭**: *嗯... 什么都懂一点，什么都不咋懂的全栈蒟蒻* o(*￣▽￣*)o
 
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 项目经历 - 折叠面板 -->
-<details>
-  <summary><h2 align="center">💼 Projects | 项目经历</h2></summary>
-  <br>
+<!-- 技能徽章云 -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bf1ntqmob8g9gv1zcrhxpd36etpjcx36t&rid=giphy.gif" width="30">
+  Tech Stack | 技术能力
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bf1ntqmob8g9gv1zcrhxpd36etpjcx36t&rid=giphy.gif" width="30">
+</h2>
+
+<div align="center">
   
-  <table align="center">
+  <!-- 技能进度条 -->
+  <h3>🎯 核心技能掌握度</h3>
+  
+  <img src="https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/C%23-75%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-80%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Vue.js-70%25-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117" />
+  
+  <br><br>
+  
+  <!-- 技能徽章云 -->
+  <h3>☁️ 技能徽章云</h3>
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+  <!-- 工具图标展示 -->
+  <br><br>
+  <h3>🔧 工具链展示</h3>
+  
+  <img src="https://skillicons.dev/icons?i=java,python,cs,spring,vue,react,js,ts,mysql,redis,docker,linux,nginx,git,github,vscode&theme=dark&perline=8" />
+  
+</div>
+
+<!-- 分隔线 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 项目展示 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Featured Projects | 精选项目
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  
+  <!-- 项目卡片网格 -->
+  <table>
     <tr>
-      <td width="50%">
-        <h4>💬 琉璃猫 - WebRTC P2P通讯软件</h4>
+      <td width="50%" valign="top">
+        <a href="https://lggyx.github.io/2024/11/29/WinForm-RuriCatPlan/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=RuriCat&theme=radical&hide_border=true" />
+        </a>
+        <br>
         <p>
-          <code>WinForm</code> <code>AntdUI</code> <code>WebRTC</code> <code>C#</code><br>
-          自主研发的桌面端即时通讯工具，支持音视频通话、文件传输，实现P2P直连与网络穿透<br>
-          <a href="https://lggyx.github.io/2024/11/29/WinForm-RuriCatPlan/">📖 博客记录</a>
+          <b>💬 琉璃猫 - WebRTC P2P通讯软件</b><br>
+          <img src="https://img.shields.io/badge/WinForm-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /><br>
+          自主研发的桌面端即时通讯工具，支持音视频通话、文件传输
         </p>
       </td>
-      <td width="50%">
-        <h4>🌐 去哪玩旅游网</h4>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=travel-website&theme=radical&hide_border=true" />
+        <br>
         <p>
-          <code>JSP</code> <code>MySQL</code> <code>jQuery</code> <code>阿里云</code><br>
-          完整的旅游信息平台，支持景点查询、线路推荐，独立完成前后端及服务器部署上线
+          <b>🌐 去哪玩旅游网</b><br>
+          <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white" /><br>
+          完整的旅游信息平台，独立完成前后端及服务器部署上线
         </p>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h4>📧 美国私立高中夏令营推广系统</h4>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=email-marketing&theme=radical&hide_border=true" />
+        <br>
         <p>
-          <code>Python</code> <code>爬虫</code> <code>邮件自动化</code><br>
-          实际商业项目，爬取美国公开统计数据获取学校邮箱，开发邮件批量发送系统进行夏令营推广营销<br>
-          <code>2026年寒假</code>
+          <b>📧 美国高中夏令营推广系统</b><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/爬虫-FF6B6B?style=flat-square" />
+          <img src="https://img.shields.io/badge/商业项目-FFD93D?style=flat-square" /><br>
+          实际商业项目，爬取美国学校邮箱进行邮件营销推广
         </p>
       </td>
-      <td width="50%">
-        <h4>📊 B站榜单数据分析</h4>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=bilibili-analysis&theme=radical&hide_border=true" />
+        <br>
         <p>
-          <code>Python</code> <code>Jupyter Notebook</code> <code>数据可视化</code><br>
-          抓取B站热门榜单数据，进行播放量、弹幕、点赞等多维度分析
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h4>🛒 当当网电商系统</h4>
-        <p>
-          <code>ASP.NET(C#)</code> <code>SQL Server</code> <code>三层架构</code><br>
-          基于C#的B2C电商平台，实现商品管理、购物车、订单系统等核心模块
-        </p>
-      </td>
-      <td width="50%">
-        <h4>🔧 RuoYi资源协同管理系统</h4>
-        <p>
-          <code>Spring Boot</code> <code>Vue</code> <code>MyBatis-Plus</code><br>
-          基于RuoYi框架二次开发的企业级资源管理系统，参与权限模块设计与软件测试流程实施
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h4>🎵 网易云WebUI播放器</h4>
-        <p>
-          <code>Vue 3</code> <code>Vite</code> <code>网易云API</code><br>
-          第三方网易云音乐播放器，支持歌曲搜索、播放列表、歌词显示
-        </p>
-      </td>
-      <td width="50%">
-        <h4>📱 Termux服务器环境搭建</h4>
-        <p>
-          <code>Termux</code> <code>TMOE</code> <code>Proot</code> <code>MySQL</code><br>
-          在Android手机上搭建完整的Linux服务器环境，实现移动端开发与服务器运维能力
+          <b>📊 B站榜单数据分析</b><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+          <img src="https://img.shields.io/badge/数据分析-00D9FF?style=flat-square" /><br>
+          抓取B站热门榜单数据进行多维度可视化分析
         </p>
       </td>
     </tr>
   </table>
-</details>
+  
+  <!-- 更多项目折叠面板 -->
+  <details>
+    <summary><b>📂 查看更多项目...</b></summary>
+    <br>
+    <table>
+      <tr>
+        <td width="50%" valign="top">
+          <p>
+            <b>🛒 当当网电商系统</b><br>
+            <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /><br>
+            基于C#的B2C电商平台，实现商品管理、购物车、订单系统
+          </p>
+        </td>
+        <td width="50%" valign="top">
+          <p>
+            <b>🔧 RuoYi资源协同管理系统</b><br>
+            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+            <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /><br>
+            企业级资源管理系统，参与权限模块与测试流程设计
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" valign="top">
+          <p>
+            <b>🎵 网易云WebUI播放器</b><br>
+            <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br>
+            第三方网易云音乐播放器，支持搜索、播放、歌词显示
+          </p>
+        </td>
+        <td width="50%" valign="top">
+          <p>
+            <b>📱 Termux服务器环境</b><br>
+            <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=white" />
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+            在Android手机上搭建完整Linux服务器环境
+          </p>
+        </td>
+      </tr>
+    </table>
+  </details>
+  
+</div>
 
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 竞赛荣誉 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7a7F6g0q0o/giphy.gif" width="40">
+  Awards & Honors | 竞赛荣誉
+</h2>
+
 <div align="center">
-  <h2>🏆 Awards | 竞赛荣誉</h2>
-  <p><i>累计 7 项省级及以上编程竞赛奖项</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/获奖总数-7%20项-FFD700?style=for-the-badge&logo=award&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/国家级-2%20项-FF6B6B?style=for-the-badge&logo=star&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/省级-5%20项-00D9FF?style=for-the-badge&logo=medal&logoColor=white&labelColor=0D1117" />
+  </p>
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">�</td>
-      <td>2024.04</td>
-      <td>第15届蓝桥杯个人赛（软件类）山东省软件开发</td>
-      <td><b>省级一等奖</b></td>
+      <td width="100%">
+        <h3 align="center">🥇 第15届蓝桥杯</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/山东省一等奖-2024.04-FFD700?style=flat-square" />
+          <img src="https://img.shields.io/badge/全国优秀奖-2024.06-C0C0C0?style=flat-square" />
+        </p>
+      </td>
     </tr>
     <tr>
-      <td align="center">🏅</td>
-      <td>2024.06</td>
-      <td>第15届蓝桥杯个人赛（软件类）全国</td>
-      <td><b>全国优秀奖</b></td>
+      <td width="100%">
+        <h3 align="center">🥉 第6届码蹄杯</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/省赛三等奖-2024.06-CD7F32?style=flat-square" />
+          <img src="https://img.shields.io/badge/国赛三等奖-2024.07-FF6B6B?style=flat-square" />
+        </p>
+      </td>
     </tr>
     <tr>
-      <td align="center">�</td>
-      <td>2024.06</td>
-      <td>第6届码蹄杯全国大学生程序设计大赛</td>
-      <td><b>省赛三等奖</b></td>
-    </tr>
-    <tr>
-      <td align="center">🥉</td>
-      <td>2024.07</td>
-      <td>第6届码蹄杯全国大学生程序设计大赛国赛</td>
-      <td><b>国赛三等奖</b></td>
-    </tr>
-    <tr>
-      <td align="center">🥈</td>
-      <td>2024.06</td>
-      <td>第8届数字技能应用大赛计算机技能应用赛决赛</td>
-      <td><b>二等奖</b></td>
-    </tr>
-    <tr>
-      <td align="center">�</td>
-      <td>2023.12</td>
-      <td>职业技能大赛"商务软件解决方案"</td>
-      <td><b>省级二等奖</b></td>
-    </tr>
-    <tr>
-      <td align="center">�🥉</td>
-      <td>2025.01</td>
-      <td>第17届山东省职业院校技能大赛"软件测试"</td>
-      <td><b>三等奖</b></td>
+      <td width="100%">
+        <h3 align="center">🥈 其他竞赛奖项</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/数字技能应用大赛-二等奖-2024.06-00D9FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/商务软件解决方案-省级二等奖-2023.12-00D9FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/软件测试-三等奖-2025.01-9D4EDD?style=flat-square" />
+        </p>
+      </td>
     </tr>
   </table>
+</div>
+
+<!-- 荣誉墙 -->
+<div align="center">
+  <h3>🏛️ 荣誉殿堂</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=lggyx&theme=radical&row=1&column=6&margin-w=10&margin-h=10" alt="Trophy" />
 </div>
 
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 博客与认证 -->
-<div align="center">
-  <h2>📝 Blog & Certifications | 博客与认证</h2>
-</div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7a7F6g0q0o/giphy.gif" width="35">
+  Blog & Certifications | 博客与认证
+</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h4>📜 技术认证</h4>
+        <h3>📜 技术认证</h3>
         <p>
-          <b>华为GaussDB入门级开发者认证</b> <code>2025年</code><br>
-          已通过认证，并撰写经验分享文章帮助同学与老师
+          <img src="https://img.shields.io/badge/华为GaussDB-入门级开发者认证-FF0000?style=for-the-badge&logo=huawei&logoColor=white" /><br>
+          <code>2025年</code><br>
+          <i>已通过认证，撰写经验分享文章帮助同学与老师</i>
         </p>
       </td>
       <td align="center" width="50%">
-        <h4>🌐 技术博客</h4>
+        <h3>🌐 技术博客</h3>
         <p>
-          <a href="https://lggyx.github.io"><b>个人博客</b></a> <code>Hexo + GitHub Pages</code><br>
-          累计发布技术文章10余篇<br>
-          <a href="https://blog.csdn.net/qq_59218818">CSDN博客</a> | 早期技术文章
+          <a href="https://lggyx.github.io">
+            <img src="https://img.shields.io/badge/个人博客-Hexo%20+%20GitHub%20Pages-2962FF?style=for-the-badge&logo=hexo&logoColor=white" />
+          </a><br>
+          <img src="https://img.shields.io/badge/文章数量-10+%20篇-6BCB77?style=flat-square" />
+          <a href="https://blog.csdn.net/qq_59218818">
+            <img src="https://img.shields.io/badge/CSDN-早期文章-FC5531?style=flat-square&logo=c&logoColor=white" />
+          </a>
         </p>
       </td>
     </tr>
   </table>
   
+  <h4>📝 文章主题标签</h4>
   <p>
-    <b>文章主题：</b>
-    <code>Ubuntu服务器部署</code> <code>MySQL配置</code> <code>Python系列</code> 
-    <code>WinForm开发</code> <code>WebRTC音视频</code> <code>Gitee图床</code>
+    <img src="https://img.shields.io/badge/Ubuntu服务器部署-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL配置-005C84?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python系列-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/WinForm开发-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebRTC音视频-333333?style=flat-square&logo=webrtc&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gitee图床-C71D23?style=flat-square&logo=gitee&logoColor=white" />
   </p>
 </div>
 
@@ -276,31 +350,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub 统计 -->
-<div align="center">
-  <h2>📊 GitHub Activity | 活动统计</h2>
-</div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87Cax6z2wIyGc1Y3/giphy.gif" width="40">
+  GitHub Analytics | 数据分析
+</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github.com/lggyx/lggyx/blob/main/assets/github-metrics.svg" alt="GitHub Metrics" />
+      <td width="50%" align="center">
+        <img src="https://github.com/lggyx/lggyx/blob/main/assets/github-metrics.svg" alt="GitHub Metrics" width="100%" />
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <!-- 分隔线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%">
 
 <!-- 贡献图 -->
 <div align="center">
-  <h2>🐍 Contribution Graph | 贡献图</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCukm8D0Q/giphy.gif" width="40">
+    Contribution Graph | 贡献图
+  </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/github-contribution-grid-snake.svg" />
@@ -308,10 +384,22 @@
   </picture>
 </div>
 
-<!-- 分隔线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- 霓虹分隔线 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:FF6B6B,100:9D4EDD&height=4&section=header" width="100%">
+</div>
 
 <!-- 页脚 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6AD1F7&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+</div>
+
+<!-- 底部标语 -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/By-伊格-00D9FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Powered%20By-GitHub%20Pages-181717?style=for-the-badge&logo=github" />
+  </p>
+  <p><i>🌟 Star this repository if you find it helpful! 🌟</i></p>
 </div>
