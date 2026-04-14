@@ -23,15 +23,23 @@ jobs:
 
       - name: Download GitHub Stats
         run: |
-          # GitHub Stats
-          curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
-          # Top Languages
-          curl -o dist/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400"
-          # GitHub Streak
-          curl -o dist/github-streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true"
-          # GitHub Trophy (PNG format)
-          curl -L -o dist/github-trophy.png "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"
+          echo "Downloading GitHub Stats..."
+          curl -fsSL -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" || echo "Failed to download github-stats"
+          
+          echo "Downloading Top Languages..."
+          curl -fsSL -o dist/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" || echo "Failed to download top-langs"
+          
+          echo "Downloading GitHub Streak..."
+          curl -fsSL -o dist/github-streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true" || echo "Failed to download streak"
+          
+          echo "Downloading GitHub Trophy..."
+          curl -fsSL -L -o dist/github-trophy.png "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" || echo "Failed to download trophy"
         continue-on-error: true
+
+      - name: Check downloaded files
+        run: |
+          echo "Files in dist directory:"
+          ls -la dist/ || echo "dist directory is empty or does not exist"
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
