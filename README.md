@@ -84,11 +84,12 @@ timeline
          : MCP 协议开发
          : 爬虫与数据分析
          : 华为 GaussDB 认证
-    2026 : 云原生与DevOps探索
-         : Kubernetes 容器编排
-         : CI/CD 自动化流水线
-         : AWS/阿里云 云服务实践
-         : 开源项目贡献计划
+    2026 : 后端架构深耕与摄影变现
+         : Java 微服务架构进阶
+         : 高并发系统设计与优化
+         : Nacos 服务治理与配置中心
+         : Elasticsearch 搜索引擎实战
+         : 摄影技能变现与商业合作
 ```
 
 <!-- 想做但还没做的事 -->
@@ -103,15 +104,6 @@ timeline
   
   <table>
     <tr>
-      <td width="33%" align="center">
-        <h3>☁️ 云原生方向</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-        </p>
-      </td>
       <td width="33%" align="center">
         <h3>🤖 AI/ML 方向</h3>
         <p>
@@ -130,33 +122,13 @@ timeline
           <img src="https://img.shields.io/badge/OSCP认证-FFD700?style=flat-square" />
         </p>
       </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center">
-        <h3>📱 移动端开发</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
-          <img src="https://img.shields.io/badge/Uni--app-007AFF?style=flat-square" /><br>
-          <img src="https://img.shields.io/badge/发布一款独立APP-6BCB77?style=flat-square" />
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🎮 游戏开发</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/独立游戏开发-FF6B6B?style=flat-square" /><br>
-          <img src="https://img.shields.io/badge/参加GameJam-FFD93D?style=flat-square" />
-        </p>
-      </td>
       <td width="33%" align="center">
         <h3>🌍 其他探索</h3>
         <p>
-          <img src="https://img.shields.io/badge/区块链%20Web3-00D9FF?style=flat-square" /><br>
+          <img src="https://img.shields.io/badge/VibeCoding-FF6B6B?style=flat-square" /><br>
+          <img src="https://img.shields.io/badge/Astro重构博客-BC52EE?style=flat-square&logo=astro&logoColor=white" /><br>
           <img src="https://img.shields.io/badge/Rust%20语言学习-000000?style=flat-square&logo=rust&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/技术%20YouTube频道-FF0000?style=flat-square&logo=youtube&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/全栈AI产品创业-9D4EDD?style=flat-square" />
+          <img src="https://img.shields.io/badge/区块链%20Web3-00D9FF?style=flat-square" />
         </p>
       </td>
     </tr>
