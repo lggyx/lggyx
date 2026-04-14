@@ -35,16 +35,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:FF6B6B,100:9D4EDD&height=4&section=header" width="100%">
 </div>
 
-<!-- 每日一言 -->
+<!-- 每日一言 - 支持主题切换 -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  </picture>
 </div>
 
 <!-- 个人资料展示 - 使用双列布局 -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">� 个人档案</h3>
+      <h3 align="center">📋 个人档案</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/🎓%20青岛恒星科技学院-本科-2962FF?style=flat-square&labelColor=0D1117" /><br>
         <img src="https://img.shields.io/badge/🏫%20淄博职业学院-专科-00D9FF?style=flat-square&labelColor=0D1117" /><br>
@@ -56,7 +60,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/🏆%20竞赛奖项-7项%20省级+-FFD93D?style=flat-square&labelColor=0D1117" /><br>
         <img src="https://img.shields.io/badge/�%20技术博客-10+%20文章-6BCB77?style=flat-square&labelColor=0D1117" /><br>
-        <img src="https://img.shields.io/badge/💻%20项目经验-8+%20项目-9D4EDD?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/�%20项目经验-8+%20项目-9D4EDD?style=flat-square&labelColor=0D1117" />
       </p>
     </td>
   </tr>
@@ -114,12 +118,12 @@ timeline
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>🔒 安全深耕</h3>
+        <h3>🔒 安全探索</h3>
         <p>
-          <img src="https://img.shields.io/badge/漏洞挖掘-FF6B6B?style=flat-square" /><br>
-          <img src="https://img.shields.io/badge/CTF%20竞赛-9D4EDD?style=flat-square" /><br>
-          <img src="https://img.shields.io/badge/安全开发(SDL)-00D9FF?style=flat-square" /><br>
-          <img src="https://img.shields.io/badge/OSCP认证-FFD700?style=flat-square" />
+          <img src="https://img.shields.io/badge/渗透测试-FF6B6B?style=flat-square" /><br>
+          <img src="https://img.shields.io/badge/逆向工程-9D4EDD?style=flat-square" /><br>
+          <img src="https://img.shields.io/badge/免杀技术-00D9FF?style=flat-square" /><br>
+          <img src="https://img.shields.io/badge/漏洞挖掘-FFD700?style=flat-square" />
         </p>
       </td>
       <td width="33%" align="center">
@@ -417,7 +421,11 @@ timeline
         <img src="https://github.com/lggyx/lggyx/blob/main/assets/github-metrics.svg" alt="GitHub Metrics" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=radical&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=default&hide_border=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=radical&hide_border=true" alt="GitHub Streak" />
+        </picture>
       </td>
     </tr>
   </table>
