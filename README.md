@@ -1,7 +1,12 @@
+<!-- 动画页头 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World&fontSize=60&fontAlignY=35&desc=伊格%20|%20Code%20Explorer&descSize=22&descAlignY=55&animation=twinkling" alt="header" />
+</div>
+
 <!-- 动态打字机标题 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=console.log(%22Hello%2C%20World!%22);%E4%BC%8A%E6%A0%BC%20%7C%20Full%20Stack%20Developer;%E4%BB%8E%20C%23%20%E5%88%B0%20Python%20%E7%9A%84%E8%BF%9B%E5%8C%96%E4%B9%8B%E8%B7%AF;7%20x%20%E7%9C%81%E7%BA%A7%E4%BB%A5%E4%B8%8A%E7%AB%9E%E8%B5%9B%E5%A5%96%E9%A1%B9;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%20%F0%9F%9A%80%20%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%AD%A2" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=print(%22Exploring%20the%20world%20of%20code...%22);%E4%BC%8A%E6%A0%BC%20%7C%20%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%20%F0%9F%9A%80;%E4%BB%8E%20C%23%20%E5%88%B0%20Python%EF%BC%8C%E6%8A%80%E6%9C%AF%E8%BF%9B%E5%8C%96%E4%B8%8D%E6%AD%A2%E6%AD%A5;%E4%B8%93%E6%B3%A8%20%E8%87%AA%E5%8A%A8%E5%8C%96%20%C2%B7%20%E5%B7%A5%E4%BD%9C%E6%B5%81%20%C2%B7%20%E7%88%AC%E8%99%AB;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%20%F0%9F%8C%B1%20%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%AD%A2" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,7 +35,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:FF6B6B,100:9D4EDD&height=4&section=header" width="100%">
 </div>
 
-<!-- 座右铭 -->
+<!-- 每日一言 -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
@@ -62,21 +67,26 @@
 
 ```mermaid
 timeline
-    title 我的技术成长之路
-    2022 : C# 商务软件解决方案
-         : 算法竞赛入门
-    2023 : 软件测试
-         : Termux 手机服务器
-         : 渗透测试基础
-    2024 : Java 微服务分布式
-         : 摄影爱好
-    2025 : Python 自动化
-         : Dify 工作流
-         : MCP 服务开发
-         : 爬虫技术
+    title 我的技术探索之旅
+    2023 : 踏入编程世界
+         : C# 商务软件开发
+         : 首尝算法竞赛
+         : 开始写技术博客
+    2024 : 全栈技能扩展
+         : Java 微服务架构
+         : 软件测试实践
+         : Termux 手机运维
+         : 摄影记录生活
+         : 蓝桥杯省一等奖
+    2025 : AI 时代新起点
+         : Python 自动化脚本
+         : Dify AI 工作流
+         : MCP 协议开发
+         : 爬虫与数据分析
+         : 华为 GaussDB 认证
 ```
 
-> 💡 **座右铭**: *嗯... 什么都懂一点，什么都不咋懂的全栈蒟蒻* o(*￣▽￣*)o
+> 🌟 **关于我**: *嗯... 什么都懂一点，什么都不咋懂的全栈蒟蒻* o(*￣▽￣*)o
 
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -147,52 +157,48 @@ timeline
   <!-- 项目卡片网格 -->
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <a href="https://lggyx.github.io/2024/11/29/WinForm-RuriCatPlan/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=RuriCat&theme=radical&hide_border=true" />
-        </a>
-        <br>
+      <td width="50%" valign="top" align="center">
+        <h3>💬 琉璃猫</h3>
         <p>
-          <b>💬 琉璃猫 - WebRTC P2P通讯软件</b><br>
-          <img src="https://img.shields.io/badge/WinForm-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /><br>
-          自主研发的桌面端即时通讯工具，支持音视频通话、文件传输
+          <img src="https://img.shields.io/badge/WebRTC%20P2P通讯软件-5C2D91?style=flat-square&logo=.net&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/WinForm-5C2D91?style=flat-square" />
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" />
+          <img src="https://img.shields.io/badge/AntdUI-FF6B6B?style=flat-square" /><br>
+          自主研发的桌面端即时通讯工具，支持音视频通话、文件传输<br>
+          <a href="https://lggyx.github.io/2024/11/29/WinForm-RuriCatPlan/">📖 查看详情</a>
         </p>
       </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=travel-website&theme=radical&hide_border=true" />
-        <br>
+      <td width="50%" valign="top" align="center">
+        <h3>🌐 去哪玩旅游网</h3>
         <p>
-          <b>🌐 去哪玩旅游网</b><br>
-          <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/旅游信息平台-007396?style=flat-square&logo=java&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/JSP-007396?style=flat-square" />
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square" />
+          <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square" /><br>
           完整的旅游信息平台，独立完成前后端及服务器部署上线
         </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=email-marketing&theme=radical&hide_border=true" />
-        <br>
+      <td width="50%" valign="top" align="center">
+        <h3>📧 邮件推广系统</h3>
         <p>
-          <b>📧 美国高中夏令营推广系统</b><br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/爬虫-FF6B6B?style=flat-square" />
           <img src="https://img.shields.io/badge/商业项目-FFD93D?style=flat-square" /><br>
-          实际商业项目，爬取美国学校邮箱进行邮件营销推广
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+          <img src="https://img.shields.io/badge/爬虫-FF6B6B?style=flat-square" />
+          <img src="https://img.shields.io/badge/邮件自动化-00D9FF?style=flat-square" /><br>
+          实际商业项目，爬取美国学校邮箱进行夏令营邮件营销推广<br>
+          <code>2026年寒假项目</code>
         </p>
       </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lggyx&repo=bilibili-analysis&theme=radical&hide_border=true" />
-        <br>
+      <td width="50%" valign="top" align="center">
+        <h3>📊 B站数据分析</h3>
         <p>
-          <b>📊 B站榜单数据分析</b><br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-          <img src="https://img.shields.io/badge/数据分析-00D9FF?style=flat-square" /><br>
-          抓取B站热门榜单数据进行多维度可视化分析
+          <img src="https://img.shields.io/badge/数据分析项目-00D9FF?style=flat-square" /><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" />
+          <img src="https://img.shields.io/badge/可视化-9D4EDD?style=flat-square" /><br>
+          抓取B站热门榜单数据进行播放量、弹幕、点赞等多维度分析
         </p>
       </td>
     </tr>
@@ -285,19 +291,14 @@ timeline
       <td width="100%">
         <h3 align="center">🥈 其他竞赛奖项</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/数字技能应用大赛-二等奖-2024.06-00D9FF?style=flat-square" />
-          <img src="https://img.shields.io/badge/商务软件解决方案-省级二等奖-2023.12-00D9FF?style=flat-square" />
-          <img src="https://img.shields.io/badge/软件测试-三等奖-2025.01-9D4EDD?style=flat-square" />
+          <img src="https://img.shields.io/badge/数字技能应用大赛-二等奖-00D9FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/商务软件解决方案-省级二等奖-00D9FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/软件测试-三等奖-9D4EDD?style=flat-square" /><br>
+          <code>2024.06</code> <code>2023.12</code> <code>2025.01</code>
         </p>
       </td>
     </tr>
   </table>
-</div>
-
-<!-- 荣誉墙 -->
-<div align="center">
-  <h3>🏛️ 荣誉殿堂</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=lggyx&theme=radical&row=1&column=6&margin-w=10&margin-h=10" alt="Trophy" />
 </div>
 
 <!-- 分隔线 -->
