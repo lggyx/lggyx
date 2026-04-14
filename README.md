@@ -29,7 +29,7 @@
 
 <!-- GitHub 奖杯 -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lggyx&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/github-trophy.png" alt="GitHub Trophy" />
 </div>
 
 <!-- 技术栈 -->
@@ -80,7 +80,7 @@
         </picture>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/github-streak.svg" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
