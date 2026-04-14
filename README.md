@@ -73,7 +73,11 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lggyx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/github-stats.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/github-stats.svg" />
+          <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/github-stats.svg" alt="GitHub Stats" />
+        </picture>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=lggyx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -81,7 +85,11 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lggyx&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/top-langs.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lggyx/lggyx/output/top-langs.svg" />
+          <img src="https://raw.githubusercontent.com/lggyx/lggyx/output/top-langs.svg" alt="Top Languages" />
+        </picture>
       </td>
     </tr>
   </table>
