@@ -33,6 +33,14 @@ jobs:
         run: |
           mkdir -p images
 
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            images/github-contribution-grid-snake.svg
+            images/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Download images
         run: |
           echo "Downloading GitHub Stats..."
