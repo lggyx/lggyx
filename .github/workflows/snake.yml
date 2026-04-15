@@ -35,15 +35,6 @@ jobs:
           git config pull.rebase false
           git add assets/github-contribution-grid-snake.svg
           git add assets/github-contribution-grid-snake-dark.svg
-          git status
-          # 如果已经有更改，先stash
-          git stash push -m "temp snake changes" || true
-          # 拉取远程更新
-          git pull origin main --no-rebase || true
-          # 恢复stash
-          git stash pop || true
-          # 重新添加和提交
-          git add assets/github-contribution-grid-snake.svg
-          git add assets/github-contribution-grid-snake-dark.svg
           git diff --staged --quiet || git commit -m "Update contribution snake to assets"
-          git push
+          # 尝试推送，失败则先pull再push
+          git push || (git pull origin main --no-edit && git push)
