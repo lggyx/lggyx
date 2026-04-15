@@ -78,6 +78,12 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git config pull.rebase false
           
+          # 删除根目录下的旧文件（如果存在）
+          if [ -f github-metrics.svg ]; then
+            rm github-metrics.svg
+            git add github-metrics.svg
+          fi
+          
           # 添加所有assets目录下的更改
           git add assets/
           git diff --staged --quiet || git commit -m "Update GitHub assets (metrics & snake)"
