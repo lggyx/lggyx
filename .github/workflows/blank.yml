@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Generate GitHub Assets
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  generate-assets:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -51,19 +51,36 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-      - name: Move metrics to assets
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Move assets and commit
         run: |
+          mkdir -p assets
+          
+          # 移动metrics（如果存在）
           if [ -f github-metrics.svg ]; then
-            mkdir -p assets
             mv github-metrics.svg assets/
-            git config user.name 'github-actions[bot]'
-            git config user.email 'github-actions[bot]@users.noreply.github.com'
-            git config pull.rebase false
-            # 强制检出并清理可能存在的冲突文件
-            git checkout --theirs github-metrics.svg || true
-            git add assets/github-metrics.svg
-            git diff --staged --quiet || git commit -m "Update metrics to assets directory"
-            # 使用--force-with-lease安全推送
-            git pull origin main --no-edit || true
-            git push || (git pull origin main --no-edit && git push)
           fi
+          
+          # 移动snake文件（如果存在）
+          if [ -f dist/github-contribution-grid-snake.svg ]; then
+            mv dist/github-contribution-grid-snake.svg assets/
+            mv dist/github-contribution-grid-snake-dark.svg assets/
+          fi
+          
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config pull.rebase false
+          
+          # 添加所有assets目录下的更改
+          git add assets/
+          git diff --staged --quiet || git commit -m "Update GitHub assets (metrics & snake)"
+          
+          # 尝试推送，失败则先pull再push
+          git push || (git pull origin main --no-edit && git push)
