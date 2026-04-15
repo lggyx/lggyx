@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -17,6 +14,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -26,9 +25,25 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+      - name: Move snake to assets and push
+        run: |
+          mkdir -p assets
+          mv dist/github-contribution-grid-snake.svg assets/
+          mv dist/github-contribution-grid-snake-dark.svg assets/
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config pull.rebase false
+          git add assets/github-contribution-grid-snake.svg
+          git add assets/github-contribution-grid-snake-dark.svg
+          git status
+          # 如果已经有更改，先stash
+          git stash push -m "temp snake changes" || true
+          # 拉取远程更新
+          git pull origin main --no-rebase || true
+          # 恢复stash
+          git stash pop || true
+          # 重新添加和提交
+          git add assets/github-contribution-grid-snake.svg
+          git add assets/github-contribution-grid-snake-dark.svg
+          git diff --staged --quiet || git commit -m "Update contribution snake to assets"
+          git push
