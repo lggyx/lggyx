@@ -387,15 +387,6 @@ timeline
           <sub>华为昇腾生态 · 算子性能优化</sub>
         </p>
       </td>
-      <td width="50%" align="center" valign="top">
-        <h4>🥉 抖音创变者</h4>
-        <p>
-          <img src="https://img.shields.io/badge/山东站-铜奖-CD7F32?style=flat-square" /><br>
-          <img src="https://img.shields.io/badge/交流赛-00A1D6?style=flat-square&logo=tiktok&logoColor=white" /><br>
-          <code>2026.05</code><br>
-          <sub>字节跳动 · AI内容创作赛道</sub>
-        </p>
-      </td>
     </tr>
   </table>
 </div>
