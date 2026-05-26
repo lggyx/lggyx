@@ -56,9 +56,9 @@
     <td width="50%" valign="top">
       <h3 align="center">📋 个人档案</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/青岛恒星科技学院-本科-2962FF?style=flat-square&labelColor=0D1117" /><br>
-        <img src="https://img.shields.io/badge/淄博职业学院-专科-00D9FF?style=flat-square&labelColor=0D1117" /><br>
-        <img src="https://img.shields.io/badge/求职中-Java后端/全栈-FF6B6B?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/学历-本科-2962FF?style=flat-square&labelColor=0D1117" /><br>
+        <img src="https://img.shields.io/badge/专业-计算机相关-00D9FF?style=flat-square&labelColor=0D1117" /><br>
+        <img src="https://img.shields.io/badge/方向-全栈-FF6B6B?style=flat-square&labelColor=0D1117" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -182,7 +182,7 @@ timeline
   <img src="https://img.shields.io/badge/Spring%20Boot-80%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Vue.js-70%25-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117" />
 
-  `<br><br>`
+  <br><br>
 
 <!-- 技能徽章云 -->
 
@@ -210,7 +210,7 @@ timeline
 
 <!-- 工具图标展示 -->
 
-  `<br><br>`
+  <br><br>
 
 <h3>🔧 工具链展示</h3>
 
