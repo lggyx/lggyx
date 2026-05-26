@@ -250,11 +250,11 @@ timeline
       <td width="50%" valign="top" align="center">
         <h3>🌐 去哪玩旅游网</h3>
         <p>
-          <img src="https://img.shields.io/badge/旅游信息平台-007396?style=flat-square&logo=java&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/JSP-007396?style=flat-square" />
+          <img src="https://img.shields.io/badge/企业级旅游信息平台-007396?style=flat-square&logo=spring&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Java%20全栈开发-007396?style=flat-square" />
           <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square" />
-          <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square" /><br>
-          完整的旅游信息平台，独立完成前后端及服务器部署上线
+          <img src="https://img.shields.io/badge/阿里云服务器-FF6A00?style=flat-square" /><br>
+          企业级全栈旅游信息平台，独立完成前后端开发、架构设计及云端部署上线
         </p>
       </td>
     </tr>
@@ -266,8 +266,7 @@ timeline
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
           <img src="https://img.shields.io/badge/爬虫-FF6B6B?style=flat-square" />
           <img src="https://img.shields.io/badge/邮件自动化-00D9FF?style=flat-square" /><br>
-          实际商业项目，爬取美国学校邮箱进行夏令营邮件营销推广<br>
-          <code>2026年寒假项目</code>
+          高送达率邮件营销自动化系统，实现批量精准邮件投递与送达率优化
         </p>
       </td>
       <td width="50%" valign="top" align="center">
